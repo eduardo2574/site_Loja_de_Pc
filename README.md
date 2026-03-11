@@ -1,0 +1,88 @@
+ <DOCTYPE html>
+ <html lang="pt-br">
+ <head>
+     <meta charset="UTF-8">
+     <title>Site Simples </title>
+   <style>
+     body{
+       background-color:#dceeff
+       front-family:arial;
+       color:black;
+       }
+header{
+        background-color:blue;
+        color:white;
+        text-align:center;
+       padding:15px;
+}
+   nav{
+       background-color:#ccc;
+       padding:10px;
+       text-align:center;
+      }
+ section{
+       background-color:#ffffff;
+       margin:20px;
+       border-radius:10px;
+       display:flex;
+       align-itens:center;
+       }
+  img{
+      width:150px;
+      margin-right:15px;
+     }
+   p{
+      text-align:left;
+    }
+ footer{
+      background-color:black;
+      color:white;
+      text-align:center;
+      padding:1opx;
+       }
+  </style>
+   <head>
+   <body>
+ 
+   </header>
+           <h1>Meu Site</h1>
+   </header>
+
+   <nav>
+       <a href="#">home</a>
+       <a href="#">sobre</a>
+   <1nav>
+
+   <main>
+        <section>
+           <p>Minha Primeira Página HTML</p>
+           </section>
+     </main>
+          <p>Loja de Pc</p>
+     </footer>
+
+     </body>
+     </html>
+ 
+  <img src = "https://images.tcdn.com.br/img/img_prod/1103247/pc_gamer_ocex_intel_i9_14900_kf_64gb_rtx_3090_24gb_strix_white_touchscreen_4k_85_1_c85cb14ef009a5d8d4ba511f771c84df.jpg" alt="descrição">
+  <h2> seção1:
+  <hr>
+  <p>5K</p>
+  <br>
+ </section>
+
+
+  <img src = "https://cdn.dooca.store/1841/products/cyberpunk-completo-preto.jpg?v=1734956752&webp=0" alt="descrição">
+  <h2> seção2:
+  <hr>
+  <p>8K</p>
+  <br>
+ </section>
+
+
+  <img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWzmNBMd3T_ME8WExDz2uxgAqhrDG1DXARqg&s" alt="descrição">
+  <h2> seção3:
+  <hr>
+  <p>10K</p>
+  <br>
+ </section>
